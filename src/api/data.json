@@ -1,5 +1,48 @@
 {
     "results": [
+        {
+            "Country":{
+                "name": "Dominican Republic",
+                "Animal": "The Palmchat",
+                "Population": "11.6 Million",
+                "Capital": "Santo Domingo",
+                "Languages": "Spanish",
+                "person":"Hippocrates"
+            },
+             "Country":{
+                "name": "Canada ",
+                "Animal": "The Beaver",
+                "Population": "41.47 Million",
+                "Capital": "Ottowa",
+                "Languages": ["English","French"],
+                "person":"Sir John A. Macdonald"
+            },"Country":{
+                "name": "Vatican City ",
+                "Animal": "The white dove",
+                "Population": "882",
+                "Capital": "Vatican City",
+                "Languages": ["Italian","Latin"],
+                "person":"Pope Francis"
+            }
+            ,"Country":{
+                "name": "El Savador ",
+                "Animal": "The Torquis-Browed Motmot ",
+                "Population": "6.39 million",
+                "Capital": "San Salvador ",
+                "Languages": "Spanish",
+                "person":"Nayib Bukele"
+            }
+            ,"Country":{
+                "name": " Nauru ",
+                "Animal": "The white dove",
+                "Population": "1200 ",
+                "Capital": "Yaren District",
+                "Languages": "Nauruan",
+                "person":"Hammer DeRoburt"
+            }
+
+                    
+        }
         
     ]
 }
